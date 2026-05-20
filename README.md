@@ -26,7 +26,6 @@ K-Means Clustering
 PCA (Principal Component Analysis)
 Model evaluation techniques
 Accuracy, Precision, Recall, F1-score
-Confusion Matrix
 Feature engineering basics
 Tools and Libraries
 Python
